@@ -1,2 +1,28 @@
-# 3f207a722895a0e4-crypto-defi-scheduling-and-ava
-spending hours building a system before you can actually use it costs you real money. This Notion template pays for itself in one use.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Crypto Defi Scheduling And Availa
+# Crypto Defi Scheduling and Availability API
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU3cvaDdaQA5tu9rKcZF3b)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU3cvaDdaQA5tu9rKcZF3b)
+
